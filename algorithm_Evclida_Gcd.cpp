@@ -1,5 +1,5 @@
 #include <iostream>
-//comment
+
 //gcd function based on Evklid's algorithm 
 int gcd(int a, int b)
 {
